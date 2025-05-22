@@ -1,0 +1,801 @@
+,#,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Win Ratio,Has 2 Types
+0,1,Bulbasaur,Grass,Poison,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,True
+1,2,Ivysaur,Grass,Poison,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,True
+2,3,Venusaur,Grass,Poison,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+3,4,Mega Venusaur,Grass,Poison,medium_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,medium_speed,1,False,medium_win_ratio,True
+4,5,Charmander,Fire,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,medium_win_ratio,False
+5,6,Charmeleon,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+6,7,Charizard,Fire,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+7,8,Mega Charizard X,Fire,Dragon,medium_hp,high_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+8,9,Mega Charizard Y,Fire,Flying,medium_hp,medium_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,1,False,high_win_ratio,True
+9,10,Squirtle,Water,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,False
+10,11,Wartortle,Water,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,False
+11,12,Blastoise,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+12,13,Mega Blastoise,Water,,medium_hp,medium_attack,high_defense,high_sp_atk,high_sp_def,medium_speed,1,False,low_win_ratio,False
+13,14,Caterpie,Bug,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,False
+14,15,Metapod,Bug,,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+15,16,Butterfree,Bug,Flying,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,True
+16,17,Weedle,Bug,Poison,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,True
+17,18,Kakuna,Bug,Poison,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+18,19,Beedrill,Bug,Poison,medium_hp,medium_attack,low_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+19,20,Mega Beedrill,Bug,Poison,medium_hp,high_attack,low_defense,low_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,True
+20,21,Pidgey,Normal,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+21,22,Pidgeotto,Normal,Flying,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,True
+22,23,Pidgeot,Normal,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+23,24,Mega Pidgeot,Normal,Flying,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,False
+24,25,Rattata,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+25,26,Raticate,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+26,27,Spearow,Normal,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,True
+27,28,Fearow,Normal,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+28,29,Ekans,Poison,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,False
+29,30,Arbok,Poison,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,False
+30,31,Pikachu,Electric,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+31,32,Raichu,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+32,33,Sandshrew,Ground,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,False
+33,34,Sandslash,Ground,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,1,False,medium_win_ratio,False
+34,35,Nidoran♀,Poison,,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+35,36,Nidorina,Poison,,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,False
+36,37,Nidoqueen,Poison,Ground,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+37,38,Nidoran♂,Poison,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+38,39,Nidorino,Poison,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,1,False,low_win_ratio,False
+39,40,Nidoking,Poison,Ground,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+40,41,Clefairy,Fairy,,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,False
+41,42,Clefable,Fairy,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,high_win_ratio,False
+42,43,Vulpix,Fire,,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,True
+43,44,Ninetales,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+44,45,Jigglypuff,Normal,Fairy,high_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,high_win_ratio,True
+45,46,Wigglytuff,Normal,Fairy,high_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,True
+46,47,Zubat,Poison,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,True
+47,48,Golbat,Poison,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+48,49,Oddish,Grass,Poison,low_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,True
+49,50,Gloom,Grass,Poison,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,True
+50,51,Vileplume,Grass,Poison,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,True
+51,52,Paras,Bug,Grass,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+52,53,Parasect,Bug,Grass,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,False
+53,54,Venonat,Bug,Poison,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,high_win_ratio,False
+54,55,Venomoth,Bug,Poison,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+55,56,Diglett,Ground,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+56,57,Dugtrio,Ground,,low_hp,medium_attack,low_defense,low_sp_atk,medium_sp_def,high_speed,1,False,low_win_ratio,False
+57,58,Meowth,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+58,59,Persian,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,False
+59,60,Psyduck,Water,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,high_win_ratio,False
+60,61,Golduck,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+61,62,Mankey,Fighting,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+62,63,Primeape,Fighting,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,False
+63,64,Growlithe,Fire,,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+64,65,Arcanine,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,False
+65,66,Poliwag,Water,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,medium_win_ratio,False
+66,67,Poliwhirl,Water,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+67,68,Poliwrath,Water,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,False
+68,69,Abra,Psychic,,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,1,False,low_win_ratio,False
+69,70,Kadabra,Psychic,,low_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,False
+70,71,Alakazam,Psychic,,medium_hp,low_attack,low_defense,high_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,False
+71,72,Mega Alakazam,Psychic,,medium_hp,low_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,1,False,low_win_ratio,True
+72,73,Machop,Fighting,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+73,74,Machoke,Fighting,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,True
+74,75,Machamp,Fighting,,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,high_win_ratio,True
+75,76,Bellsprout,Grass,Poison,low_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,True
+76,77,Weepinbell,Grass,Poison,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,True
+77,78,Victreebel,Grass,Poison,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+78,79,Tentacool,Water,Poison,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,False
+79,80,Tentacruel,Water,Poison,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,1,False,high_win_ratio,False
+80,81,Geodude,Rock,Ground,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,True
+81,82,Graveler,Rock,Ground,medium_hp,medium_attack,high_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,True
+82,83,Golem,Rock,Ground,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,True
+83,84,Ponyta,Fire,,low_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,True
+84,85,Rapidash,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+85,86,Slowpoke,Water,Psychic,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+86,87,Slowbro,Water,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,high_win_ratio,True
+87,88,Mega Slowbro,Water,Psychic,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,False
+88,89,Magnemite,Electric,Steel,low_hp,low_attack,medium_defense,medium_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+89,90,Magneton,Electric,Steel,low_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,False
+90,91,Farfetch'd,Normal,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,False
+91,92,Doduo,Normal,Flying,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,low_win_ratio,False
+92,93,Dodrio,Normal,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+93,94,Seel,Water,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,True
+94,95,Dewgong,Water,Ice,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+95,96,Grimer,Poison,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,high_win_ratio,True
+96,97,Muk,Poison,,high_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,high_win_ratio,True
+97,98,Shellder,Water,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+98,99,Cloyster,Water,Ice,low_hp,medium_attack,high_defense,medium_sp_atk,low_sp_def,medium_speed,1,False,low_win_ratio,False
+99,100,Gastly,Ghost,Poison,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,1,False,medium_win_ratio,False
+100,101,Haunter,Ghost,Poison,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,1,False,low_win_ratio,False
+101,102,Gengar,Ghost,Poison,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+102,103,Mega Gengar,Ghost,Poison,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,False
+103,104,Onix,Rock,Ground,low_hp,low_attack,high_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+104,105,Drowzee,Psychic,,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,True
+105,106,Hypno,Psychic,,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,1,False,medium_win_ratio,True
+106,107,Krabby,Water,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,False
+107,108,Kingler,Water,,medium_hp,high_attack,high_defense,low_sp_atk,low_sp_def,medium_speed,1,False,low_win_ratio,False
+108,109,Voltorb,Electric,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,1,False,medium_win_ratio,False
+109,110,Electrode,Electric,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,False
+110,111,Exeggcute,Grass,Psychic,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,False
+111,112,Exeggutor,Grass,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,False
+112,113,Cubone,Ground,,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,False
+113,114,Marowak,Ground,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,True
+114,115,Hitmonlee,Fighting,,low_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+115,116,Hitmonchan,Fighting,,low_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,False
+116,117,Lickitung,Normal,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,False
+117,118,Koffing,Poison,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,high_win_ratio,False
+118,119,Weezing,Poison,,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,high_win_ratio,False
+119,120,Rhyhorn,Ground,Rock,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,False
+120,121,Rhydon,Ground,Rock,high_hp,high_attack,high_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,False
+121,122,Chansey,Normal,,high_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,False
+122,123,Tangela,Grass,,medium_hp,low_attack,high_defense,medium_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,False
+123,124,Kangaskhan,Normal,,high_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+124,125,Mega Kangaskhan,Normal,,high_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+125,126,Horsea,Water,,low_hp,low_attack,medium_defense,medium_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+126,127,Seadra,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,True
+127,128,Goldeen,Water,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,True
+128,129,Seaking,Water,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,False
+129,130,Staryu,Water,,low_hp,low_attack,medium_defense,medium_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+130,131,Starmie,Water,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,False
+131,132,Mr. Mime,Psychic,Fairy,low_hp,low_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,1,False,high_win_ratio,True
+132,133,Scyther,Bug,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,False
+133,134,Jynx,Ice,Psychic,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,False
+134,135,Electabuzz,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+135,136,Magmar,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+136,137,Pinsir,Bug,,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,True
+137,138,Mega Pinsir,Bug,Flying,medium_hp,high_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+138,139,Tauros,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+139,140,Magikarp,Water,,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,1,False,high_win_ratio,False
+140,141,Gyarados,Water,Flying,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+141,142,Mega Gyarados,Water,Dark,medium_hp,high_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,1,False,low_win_ratio,False
+142,143,Lapras,Water,Ice,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,low_win_ratio,True
+143,144,Ditto,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,medium_win_ratio,True
+144,145,Eevee,Normal,,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,True
+145,146,Vaporeon,Water,,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+146,147,Jolteon,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,1,False,high_win_ratio,True
+147,148,Flareon,Fire,,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,True
+148,149,Porygon,Normal,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,medium_win_ratio,False
+149,150,Omanyte,Rock,Water,low_hp,low_attack,medium_defense,medium_sp_atk,low_sp_def,low_speed,1,False,high_win_ratio,True
+150,151,Omastar,Rock,Water,medium_hp,low_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,1,False,high_win_ratio,True
+151,152,Kabuto,Rock,Water,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,1,False,high_win_ratio,True
+152,153,Kabutops,Rock,Water,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+153,154,Aerodactyl,Rock,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,False
+154,155,Mega Aerodactyl,Rock,Flying,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,1,False,medium_win_ratio,True
+155,156,Snorlax,Normal,,high_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,1,False,high_win_ratio,False
+156,157,Articuno,Ice,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,1,True,high_win_ratio,True
+157,158,Zapdos,Electric,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,True,high_win_ratio,False
+158,159,Moltres,Fire,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,True,high_win_ratio,False
+159,160,Dratini,Dragon,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,1,False,low_win_ratio,False
+160,161,Dragonair,Dragon,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,medium_win_ratio,False
+161,162,Dragonite,Dragon,Flying,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,high_win_ratio,False
+162,163,Mewtwo,Psychic,,high_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,1,True,medium_win_ratio,False
+163,164,Mega Mewtwo X,Psychic,Fighting,high_hp,high_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,1,True,medium_win_ratio,False
+164,165,Mega Mewtwo Y,Psychic,,high_hp,high_attack,medium_defense,high_sp_atk,high_sp_def,high_speed,1,True,high_win_ratio,False
+165,166,Mew,Psychic,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,1,False,low_win_ratio,False
+166,167,Chikorita,Grass,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,False
+167,168,Bayleef,Grass,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,False
+168,169,Meganium,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,False
+169,170,Cyndaquil,Fire,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,2,False,high_win_ratio,False
+170,171,Quilava,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+171,172,Typhlosion,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,medium_win_ratio,True
+172,173,Totodile,Water,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,2,False,low_win_ratio,True
+173,174,Croconaw,Water,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+174,175,Feraligatr,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+175,176,Sentret,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,high_win_ratio,True
+176,177,Furret,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,2,False,medium_win_ratio,True
+177,178,Hoothoot,Normal,Flying,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+178,179,Noctowl,Normal,Flying,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,medium_win_ratio,False
+179,180,Ledyba,Bug,Flying,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,2,False,low_win_ratio,False
+180,181,Ledian,Bug,Flying,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+181,182,Spinarak,Bug,Poison,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,low_win_ratio,False
+182,183,Ariados,Bug,Poison,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,low_win_ratio,True
+183,184,Crobat,Poison,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,2,False,medium_win_ratio,True
+184,185,Chinchou,Water,Electric,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,high_win_ratio,True
+185,186,Lanturn,Water,Electric,high_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,False
+186,187,Pichu,Electric,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,low_win_ratio,False
+187,188,Cleffa,Fairy,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,medium_win_ratio,False
+188,189,Igglybuff,Normal,Fairy,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,low_win_ratio,True
+189,190,Togepi,Fairy,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,low_win_ratio,False
+190,191,Togetic,Fairy,Flying,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,low_win_ratio,True
+191,192,Natu,Psychic,Flying,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,2,False,medium_win_ratio,True
+192,193,Xatu,Psychic,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,False
+193,194,Mareep,Electric,,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,medium_win_ratio,False
+194,195,Flaaffy,Electric,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+195,196,Ampharos,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+196,197,Mega Ampharos,Electric,Dragon,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,low_speed,2,False,high_win_ratio,True
+197,198,Bellossom,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,high_win_ratio,False
+198,199,Marill,Water,Fairy,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,low_win_ratio,False
+199,200,Azumarill,Water,Fairy,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,low_win_ratio,False
+200,201,Sudowoodo,Rock,,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,2,False,high_win_ratio,True
+201,202,Politoed,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+202,203,Hoppip,Grass,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,low_win_ratio,True
+203,204,Skiploom,Grass,Flying,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,high_win_ratio,False
+204,205,Jumpluff,Grass,Flying,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,medium_win_ratio,False
+205,206,Aipom,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,2,False,high_win_ratio,True
+206,207,Sunkern,Grass,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,low_win_ratio,True
+207,208,Sunflora,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,False
+208,209,Yanma,Bug,Flying,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,2,False,low_win_ratio,False
+209,210,Wooper,Water,Ground,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,low_win_ratio,False
+210,211,Quagsire,Water,Ground,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+211,212,Espeon,Psychic,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,False
+212,213,Umbreon,Dark,,medium_hp,medium_attack,medium_defense,low_sp_atk,high_sp_def,medium_speed,2,False,low_win_ratio,True
+213,214,Murkrow,Dark,Flying,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,2,False,low_win_ratio,False
+214,215,Slowking,Water,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,high_win_ratio,True
+215,216,Misdreavus,Ghost,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+216,217,Unown,Psychic,,low_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,2,False,medium_win_ratio,True
+217,218,Wobbuffet,Psychic,,high_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,low_win_ratio,False
+218,219,Girafarig,Normal,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,False
+219,220,Pineco,Bug,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,2,False,high_win_ratio,True
+220,221,Forretress,Bug,Steel,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+221,222,Dunsparce,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+222,223,Gligar,Ground,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,,True
+223,224,Steelix,Steel,Ground,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,2,False,high_win_ratio,True
+224,225,Mega Steelix,Steel,Ground,medium_hp,high_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+225,226,Snubbull,Fairy,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,high_win_ratio,True
+226,227,Granbull,Fairy,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,low_win_ratio,False
+227,228,Qwilfish,Water,Poison,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,2,False,low_win_ratio,False
+228,229,Scizor,Bug,Steel,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+229,230,Mega Scizor,Bug,Steel,medium_hp,high_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+230,231,Shuckle,Bug,Rock,low_hp,low_attack,high_defense,low_sp_atk,high_sp_def,low_speed,2,False,low_win_ratio,True
+231,232,Heracross,Bug,Fighting,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+232,233,Mega Heracross,Bug,Fighting,medium_hp,high_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,medium_win_ratio,False
+233,234,Sneasel,Dark,Ice,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,2,False,low_win_ratio,False
+234,235,Teddiursa,Normal,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,medium_win_ratio,True
+235,236,Ursaring,Normal,,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+236,237,Slugma,Fire,,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,2,False,medium_win_ratio,True
+237,238,Magcargo,Fire,Rock,low_hp,low_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+238,239,Swinub,Ice,Ground,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,high_win_ratio,True
+239,240,Piloswine,Ice,Ground,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,high_win_ratio,True
+240,241,Corsola,Water,Rock,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,True
+241,242,Remoraid,Water,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,2,False,low_win_ratio,False
+242,243,Octillery,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,medium_win_ratio,False
+243,244,Delibird,Ice,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,2,False,medium_win_ratio,False
+244,245,Mantine,Water,Flying,medium_hp,low_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,2,False,medium_win_ratio,False
+245,246,Skarmory,Steel,Flying,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,medium_win_ratio,False
+246,247,Houndour,Dark,Fire,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,2,False,low_win_ratio,False
+247,248,Houndoom,Dark,Fire,medium_hp,medium_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,medium_win_ratio,False
+248,249,Mega Houndoom,Dark,Fire,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,2,False,medium_win_ratio,True
+249,250,Kingdra,Water,Dragon,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,high_win_ratio,False
+250,251,Phanpy,Ground,,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,2,False,medium_win_ratio,False
+251,252,Donphan,Ground,,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,2,False,high_win_ratio,False
+252,253,Porygon2,Normal,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,2,False,low_win_ratio,False
+253,254,Stantler,Normal,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,high_win_ratio,False
+254,255,Smeargle,Normal,,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,2,False,high_win_ratio,False
+255,256,Tyrogue,Fighting,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,medium_win_ratio,False
+256,257,Hitmontop,Fighting,,low_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+257,258,Smoochum,Ice,Psychic,low_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,True
+258,259,Elekid,Electric,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,2,False,medium_win_ratio,True
+259,260,Magby,Fire,,low_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,2,False,medium_win_ratio,True
+260,261,Miltank,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,2,False,high_win_ratio,True
+261,262,Blissey,Normal,,high_hp,low_attack,low_defense,medium_sp_atk,high_sp_def,low_speed,2,False,high_win_ratio,True
+262,263,Raikou,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,2,True,high_win_ratio,True
+263,264,Entei,Fire,,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,True,medium_win_ratio,False
+264,265,Suicune,Water,,medium_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,medium_speed,2,True,high_win_ratio,False
+265,266,Larvitar,Rock,Ground,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,2,False,high_win_ratio,False
+266,267,Pupitar,Rock,Ground,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,2,False,high_win_ratio,True
+267,268,Tyranitar,Rock,Dark,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,False
+268,269,Mega Tyranitar,Rock,Dark,medium_hp,high_attack,high_defense,medium_sp_atk,high_sp_def,medium_speed,2,False,medium_win_ratio,True
+269,270,Lugia,Psychic,Flying,high_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,medium_speed,2,True,medium_win_ratio,True
+270,271,Ho-oh,Fire,Flying,high_hp,high_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,2,True,high_win_ratio,True
+271,272,Celebi,Psychic,Grass,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,2,False,low_win_ratio,False
+272,273,Treecko,Grass,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,low_win_ratio,True
+273,274,Grovyle,Grass,,low_hp,medium_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+274,275,Sceptile,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,3,False,medium_win_ratio,True
+275,276,Mega Sceptile,Grass,Dragon,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,3,False,low_win_ratio,False
+276,277,Torchic,Fire,,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,False
+277,278,Combusken,Fire,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+278,279,Blaziken,Fire,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,high_win_ratio,False
+279,280,Mega Blaziken,Fire,Fighting,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+280,281,Mudkip,Water,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+281,282,Marshtomp,Water,Ground,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,True
+282,283,Swampert,Water,Ground,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+283,284,Mega Swampert,Water,Ground,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+284,285,Poochyena,Dark,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,True
+285,286,Mightyena,Dark,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+286,287,Zigzagoon,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+287,288,Linoone,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+288,289,Wurmple,Bug,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+289,290,Silcoon,Bug,,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+290,291,Beautifly,Bug,Flying,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,3,False,high_win_ratio,True
+291,292,Cascoon,Bug,,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,high_win_ratio,True
+292,293,Dustox,Bug,Poison,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+293,294,Lotad,Water,Grass,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+294,295,Lombre,Water,Grass,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,True
+295,296,Ludicolo,Water,Grass,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+296,297,Seedot,Grass,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+297,298,Nuzleaf,Grass,Dark,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,high_win_ratio,True
+298,299,Shiftry,Grass,Dark,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+299,300,Taillow,Normal,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,medium_win_ratio,True
+300,301,Swellow,Normal,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,high_speed,3,False,low_win_ratio,False
+301,302,Wingull,Water,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,medium_win_ratio,True
+302,303,Pelipper,Water,Flying,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+303,304,Ralts,Psychic,Fairy,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,False
+304,305,Kirlia,Psychic,Fairy,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,high_win_ratio,False
+305,306,Gardevoir,Psychic,Fairy,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,3,False,low_win_ratio,True
+306,307,Mega Gardevoir,Psychic,Fairy,medium_hp,medium_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,3,False,high_win_ratio,True
+307,308,Surskit,Bug,Water,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,low_win_ratio,True
+308,309,Masquerain,Bug,Flying,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+309,310,Shroomish,Grass,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+310,311,Breloom,Grass,Fighting,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,False
+311,312,Slakoth,Normal,,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+312,313,Vigoroth,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,3,False,low_win_ratio,True
+313,314,Slaking,Normal,,high_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+314,315,Nincada,Bug,Ground,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+315,316,Ninjask,Bug,Flying,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,high_speed,3,False,medium_win_ratio,False
+316,317,Shedinja,Bug,Ghost,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+317,318,Whismur,Normal,,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+318,319,Loudred,Normal,,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+319,320,Exploud,Normal,,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+320,321,Makuhita,Fighting,,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,True
+321,322,Hariyama,Fighting,,high_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,True
+322,323,Azurill,Normal,Fairy,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+323,324,Nosepass,Rock,,low_hp,low_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+324,325,Skitty,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,True
+325,326,Delcatty,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,3,False,high_win_ratio,True
+326,327,Sableye,Dark,Ghost,low_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,high_win_ratio,True
+327,328,Mega Sableye,Dark,Ghost,low_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,low_speed,3,False,medium_win_ratio,False
+328,329,Mawile,Steel,Fairy,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,high_win_ratio,False
+329,330,Mega Mawile,Steel,Fairy,low_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,3,False,high_win_ratio,False
+330,331,Aron,Steel,Rock,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,high_win_ratio,False
+331,332,Lairon,Steel,Rock,medium_hp,medium_attack,high_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,False
+332,333,Aggron,Steel,Rock,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,3,False,high_win_ratio,False
+333,334,Mega Aggron,Steel,,medium_hp,high_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,False
+334,335,Meditite,Fighting,Psychic,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+335,336,Medicham,Fighting,Psychic,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+336,337,Mega Medicham,Fighting,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,False
+337,338,Electrike,Electric,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,medium_win_ratio,True
+338,339,Manectric,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,high_win_ratio,True
+339,340,Mega Manectric,Electric,,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,3,False,high_win_ratio,True
+340,341,Plusle,Electric,,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,False
+341,342,Minun,Electric,,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,False
+342,343,Volbeat,Bug,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+343,344,Illumise,Bug,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+344,345,Roselia,Grass,Poison,low_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+345,346,Gulpin,Poison,,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+346,347,Swalot,Poison,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+347,348,Carvanha,Water,Dark,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,medium_win_ratio,False
+348,349,Sharpedo,Water,Dark,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,3,False,medium_win_ratio,False
+349,350,Mega Sharpedo,Water,Dark,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+350,351,Wailmer,Water,,high_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+351,352,Wailord,Water,,high_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,3,False,high_win_ratio,True
+352,353,Numel,Fire,Ground,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+353,354,Camerupt,Fire,Ground,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,True
+354,355,Mega Camerupt,Fire,Ground,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,True
+355,356,Torkoal,Fire,,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,True
+356,357,Spoink,Psychic,,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,True
+357,358,Grumpig,Psychic,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,False
+358,359,Spinda,Normal,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,False
+359,360,Trapinch,Ground,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+360,361,Vibrava,Ground,Dragon,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,medium_win_ratio,True
+361,362,Flygon,Ground,Dragon,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+362,363,Cacnea,Grass,,low_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,True
+363,364,Cacturne,Grass,Dark,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+364,365,Swablu,Normal,Flying,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,True
+365,366,Altaria,Dragon,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+366,367,Mega Altaria,Dragon,Fairy,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+367,368,Zangoose,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+368,369,Seviper,Poison,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+369,370,Lunatone,Rock,Psychic,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,True
+370,371,Solrock,Rock,Psychic,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+371,372,Barboach,Water,Ground,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+372,373,Whiscash,Water,Ground,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,False
+373,374,Corphish,Water,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,False
+374,375,Crawdaunt,Water,Dark,medium_hp,medium_attack,medium_defense,medium_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+375,376,Baltoy,Ground,Psychic,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+376,377,Claydol,Ground,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,3,False,medium_win_ratio,False
+377,378,Lileep,Rock,Grass,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,False
+378,379,Cradily,Rock,Grass,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,False
+379,380,Anorith,Rock,Bug,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,low_win_ratio,False
+380,381,Armaldo,Rock,Bug,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,True
+381,382,Feebas,Water,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,3,False,medium_win_ratio,False
+382,383,Milotic,Water,,medium_hp,low_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,3,False,high_win_ratio,False
+383,384,Castform,Normal,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,high_win_ratio,False
+384,385,Kecleon,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,high_sp_def,low_speed,3,False,low_win_ratio,False
+385,386,Shuppet,Ghost,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+386,387,Banette,Ghost,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,False
+387,388,Mega Banette,Ghost,,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,high_win_ratio,False
+388,389,Duskull,Ghost,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,low_win_ratio,True
+389,390,Dusclops,Ghost,,low_hp,medium_attack,high_defense,low_sp_atk,high_sp_def,low_speed,3,False,low_win_ratio,True
+390,391,Tropius,Grass,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,True
+391,392,Chimecho,Psychic,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+392,393,Absol,Dark,,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,False
+393,394,Mega Absol,Dark,,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,3,False,low_win_ratio,False
+394,395,Wynaut,Psychic,,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,True
+395,396,Snorunt,Ice,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,medium_win_ratio,False
+396,397,Glalie,Ice,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+397,398,Mega Glalie,Ice,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,medium_win_ratio,False
+398,399,Spheal,Ice,Water,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,3,False,high_win_ratio,True
+399,400,Sealeo,Ice,Water,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,high_win_ratio,True
+400,401,Walrein,Ice,Water,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,True
+401,402,Clamperl,Water,,low_hp,medium_attack,medium_defense,medium_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,True
+402,403,Huntail,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,True
+403,404,Gorebyss,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,3,False,high_win_ratio,True
+404,405,Relicanth,Water,Rock,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,3,False,medium_win_ratio,False
+405,406,Luvdisc,Water,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,3,False,low_win_ratio,False
+406,407,Bagon,Dragon,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,low_win_ratio,False
+407,408,Shelgon,Dragon,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,3,False,high_win_ratio,True
+408,409,Salamence,Dragon,Flying,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,high_win_ratio,True
+409,410,Mega Salamence,Dragon,Flying,medium_hp,high_attack,high_defense,medium_sp_atk,medium_sp_def,high_speed,3,False,high_win_ratio,True
+410,411,Beldum,Steel,Psychic,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,high_win_ratio,False
+411,412,Metang,Steel,Psychic,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,3,False,high_win_ratio,False
+412,413,Metagross,Steel,Psychic,medium_hp,high_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,high_win_ratio,False
+413,414,Mega Metagross,Steel,Psychic,medium_hp,high_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,3,False,high_win_ratio,True
+414,415,Regirock,Rock,,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,3,True,high_win_ratio,True
+415,416,Regice,Ice,,medium_hp,low_attack,medium_defense,medium_sp_atk,high_sp_def,low_speed,3,True,high_win_ratio,True
+416,417,Registeel,Steel,,medium_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,low_speed,3,True,high_win_ratio,True
+417,418,Latias,Dragon,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,3,True,high_win_ratio,False
+418,419,Mega Latias,Dragon,Psychic,medium_hp,medium_attack,high_defense,high_sp_atk,high_sp_def,medium_speed,3,True,high_win_ratio,False
+419,420,Latios,Dragon,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,True,high_win_ratio,False
+420,421,Mega Latios,Dragon,Psychic,medium_hp,high_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,3,True,high_win_ratio,False
+421,422,Kyogre,Water,,medium_hp,medium_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,3,True,low_win_ratio,False
+422,423,Primal Kyogre,Water,,medium_hp,high_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,3,True,low_win_ratio,False
+423,424,Groudon,Ground,,medium_hp,high_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,3,True,medium_win_ratio,True
+424,425,Primal Groudon,Ground,Fire,medium_hp,high_attack,high_defense,high_sp_atk,medium_sp_def,medium_speed,3,True,medium_win_ratio,False
+425,426,Rayquaza,Dragon,Flying,high_hp,high_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,3,True,medium_win_ratio,True
+426,427,Mega Rayquaza,Dragon,Flying,high_hp,high_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,3,True,high_win_ratio,True
+427,428,Jirachi,Steel,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,3,True,low_win_ratio,False
+428,429,Deoxys Normal Forme,Psychic,,low_hp,high_attack,low_defense,high_sp_atk,low_sp_def,high_speed,3,True,low_win_ratio,False
+429,430,DeoxysAttack Forme,Psychic,,low_hp,high_attack,low_defense,high_sp_atk,low_sp_def,high_speed,3,True,medium_win_ratio,True
+430,431,Deoxys Defense Forme,Psychic,,low_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,medium_speed,3,True,medium_win_ratio,True
+431,432,Deoxys Speed Forme,Psychic,,low_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,3,True,medium_win_ratio,True
+432,433,Turtwig,Grass,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,4,False,high_win_ratio,True
+433,434,Grotle,Grass,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,4,False,low_win_ratio,False
+434,435,Torterra,Grass,Ground,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,True
+435,436,Chimchar,Fire,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,4,False,low_win_ratio,False
+436,437,Monferno,Fire,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,low_sp_def,medium_speed,4,False,medium_win_ratio,False
+437,438,Infernape,Fire,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,False
+438,439,Piplup,Water,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,False
+439,440,Prinplup,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,False
+440,441,Empoleon,Water,Steel,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,low_win_ratio,True
+441,442,Starly,Normal,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,high_win_ratio,True
+442,443,Staravia,Normal,Flying,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,4,False,medium_win_ratio,False
+443,444,Staraptor,Normal,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,False
+444,445,Bidoof,Normal,,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,low_win_ratio,True
+445,446,Bibarel,Normal,Water,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,True
+446,447,Kricketot,Bug,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,low_win_ratio,False
+447,448,Kricketune,Bug,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,4,False,low_win_ratio,True
+448,449,Shinx,Electric,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,low_win_ratio,True
+449,450,Luxio,Electric,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,low_win_ratio,True
+450,451,Luxray,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,True
+451,452,Budew,Grass,Poison,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,True
+452,453,Roserade,Grass,Poison,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,True
+453,454,Cranidos,Rock,,medium_hp,high_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,high_win_ratio,False
+454,455,Rampardos,Rock,,medium_hp,high_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,4,False,medium_win_ratio,False
+455,456,Shieldon,Rock,Steel,low_hp,low_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,False
+456,457,Bastiodon,Rock,Steel,medium_hp,low_attack,high_defense,low_sp_atk,high_sp_def,low_speed,4,False,low_win_ratio,False
+457,458,Burmy,Bug,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,medium_win_ratio,False
+458,459,Wormadam Plant Cloak,Bug,Grass,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,low_win_ratio,False
+459,460,Wormadam Sandy Cloak,Bug,Ground,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,4,False,low_win_ratio,True
+460,461,Wormadam Trash Cloak,Bug,Steel,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,False
+461,462,Mothim,Bug,Flying,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,4,False,medium_win_ratio,True
+462,463,Combee,Bug,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,4,False,medium_win_ratio,True
+463,464,Vespiquen,Bug,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,False
+464,465,Pachirisu,Electric,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,False
+465,466,Buizel,Water,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,4,False,high_win_ratio,True
+466,467,Floatzel,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,low_sp_def,high_speed,4,False,high_win_ratio,False
+467,468,Cherubi,Grass,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,medium_win_ratio,False
+468,469,Cherrim,Grass,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,False
+469,470,Shellos,Water,,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,4,False,low_win_ratio,False
+470,471,Gastrodon,Water,Ground,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,True
+471,472,Ambipom,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,4,False,high_win_ratio,True
+472,473,Drifloon,Ghost,Flying,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,4,False,low_win_ratio,True
+473,474,Drifblim,Ghost,Flying,high_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,4,False,low_win_ratio,True
+474,475,Buneary,Normal,,medium_hp,medium_attack,low_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,False
+475,476,Lopunny,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,True
+476,477,Mega Lopunny,Normal,Fighting,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,4,False,low_win_ratio,False
+477,478,Mismagius,Ghost,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,True
+478,479,Honchkrow,Dark,Flying,medium_hp,high_attack,medium_defense,medium_sp_atk,low_sp_def,medium_speed,4,False,low_win_ratio,True
+479,480,Glameow,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,4,False,low_win_ratio,True
+480,481,Purugly,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,4,False,medium_win_ratio,True
+481,482,Chingling,Psychic,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,high_win_ratio,True
+482,483,Stunky,Poison,Dark,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,4,False,high_win_ratio,True
+483,484,Skuntank,Poison,Dark,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,False
+484,485,Bronzor,Steel,Psychic,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,False
+485,486,Bronzong,Steel,Psychic,medium_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,low_speed,4,False,high_win_ratio,True
+486,487,Bonsly,Rock,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,4,False,high_win_ratio,True
+487,488,Mime Jr.,Psychic,Fairy,low_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,low_win_ratio,False
+488,489,Happiny,Normal,,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,4,False,low_win_ratio,False
+489,490,Chatot,Normal,Flying,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,4,False,medium_win_ratio,True
+490,491,Spiritomb,Ghost,Dark,low_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,True
+491,492,Gible,Dragon,Ground,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,low_win_ratio,True
+492,493,Gabite,Dragon,Ground,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,4,False,medium_win_ratio,True
+493,494,Garchomp,Dragon,Ground,high_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,False
+494,495,Mega Garchomp,Dragon,Ground,high_hp,high_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,False
+495,496,Munchlax,Normal,,high_hp,medium_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,False
+496,497,Riolu,Fighting,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,low_win_ratio,True
+497,498,Lucario,Fighting,Steel,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,True
+498,499,Mega Lucario,Fighting,Steel,medium_hp,high_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,4,False,medium_win_ratio,True
+499,500,Hippopotas,Ground,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,4,False,medium_win_ratio,True
+500,501,Hippowdon,Ground,,high_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,True
+501,502,Skorupi,Poison,Bug,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,4,False,medium_win_ratio,True
+502,503,Drapion,Poison,Dark,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,False
+503,504,Croagunk,Poison,Fighting,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,4,False,medium_win_ratio,True
+504,505,Toxicroak,Poison,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,False
+505,506,Carnivine,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,False
+506,507,Finneon,Water,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,False
+507,508,Lumineon,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,True
+508,509,Mantyke,Water,Flying,low_hp,low_attack,low_defense,low_sp_atk,high_sp_def,low_speed,4,False,high_win_ratio,True
+509,510,Snover,Grass,Ice,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,False
+510,511,Abomasnow,Grass,Ice,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,False
+511,512,Mega Abomasnow,Grass,Ice,medium_hp,high_attack,medium_defense,high_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,True
+512,513,Weavile,Dark,Ice,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,4,False,medium_win_ratio,True
+513,514,Magnezone,Electric,Steel,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,high_win_ratio,False
+514,515,Lickilicky,Normal,,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,4,False,medium_win_ratio,True
+515,516,Rhyperior,Ground,Rock,high_hp,high_attack,high_defense,low_sp_atk,low_sp_def,low_speed,4,False,high_win_ratio,True
+516,517,Tangrowth,Grass,,medium_hp,medium_attack,high_defense,medium_sp_atk,low_sp_def,low_speed,4,False,low_win_ratio,True
+517,518,Electivire,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,False
+518,519,Magmortar,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,True
+519,520,Togekiss,Fairy,Flying,medium_hp,low_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,4,False,medium_win_ratio,True
+520,521,Yanmega,Bug,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,True
+521,522,Leafeon,Grass,,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,True
+522,523,Glaceon,Ice,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,True
+523,524,Gliscor,Ground,Flying,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,True
+524,525,Mamoswine,Ice,Ground,high_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,True
+525,526,Porygon-Z,Normal,,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,False
+526,527,Gallade,Psychic,Fighting,medium_hp,high_attack,medium_defense,low_sp_atk,high_sp_def,medium_speed,4,False,medium_win_ratio,False
+527,528,Mega Gallade,Psychic,Fighting,medium_hp,high_attack,medium_defense,low_sp_atk,high_sp_def,medium_speed,4,False,high_win_ratio,False
+528,529,Probopass,Rock,Steel,medium_hp,low_attack,high_defense,medium_sp_atk,high_sp_def,low_speed,4,False,high_win_ratio,True
+529,530,Dusknoir,Ghost,,low_hp,medium_attack,high_defense,low_sp_atk,high_sp_def,low_speed,4,False,high_win_ratio,True
+530,531,Froslass,Ice,Ghost,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,True
+531,532,Rotom,Electric,Ghost,low_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,False
+532,533,Heat Rotom,Electric,Fire,low_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,True
+533,534,Wash Rotom,Electric,Water,low_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,True
+534,535,Frost Rotom,Electric,Ice,low_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,False
+535,536,Fan Rotom,Electric,Flying,low_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,False
+536,537,Mow Rotom,Electric,Grass,low_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,high_win_ratio,False
+537,538,Uxie,Psychic,,medium_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,medium_speed,4,True,high_win_ratio,False
+538,539,Mesprit,Psychic,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,True,high_win_ratio,False
+539,540,Azelf,Psychic,,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,4,True,high_win_ratio,True
+540,541,Dialga,Steel,Dragon,medium_hp,medium_attack,high_defense,high_sp_atk,medium_sp_def,medium_speed,4,True,high_win_ratio,False
+541,542,Palkia,Water,Dragon,medium_hp,medium_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,4,True,high_win_ratio,True
+542,543,Heatran,Fire,Steel,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,True,medium_win_ratio,False
+543,544,Regigigas,Normal,,high_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,True,high_win_ratio,False
+544,545,Giratina Altered Forme,Ghost,Dragon,high_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,medium_speed,4,True,low_win_ratio,False
+545,546,Giratina Origin Forme,Ghost,Dragon,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,True,medium_win_ratio,True
+546,547,Cresselia,Psychic,,high_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,medium_speed,4,False,medium_win_ratio,True
+547,548,Phione,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,low_win_ratio,False
+548,549,Manaphy,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,False,medium_win_ratio,False
+549,550,Darkrai,Dark,,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,high_speed,4,True,medium_win_ratio,False
+550,551,Shaymin Land Forme,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,4,True,low_win_ratio,False
+551,552,Shaymin Sky Forme,Grass,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,4,True,medium_win_ratio,False
+552,553,Arceus,Normal,,high_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,high_speed,4,True,low_win_ratio,False
+553,554,Victini,Psychic,Fire,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,medium_win_ratio,False
+554,555,Snivy,Grass,,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,False
+555,556,Servine,Grass,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,False
+556,557,Serperior,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,5,False,high_win_ratio,False
+557,558,Tepig,Fire,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,medium_win_ratio,False
+558,559,Pignite,Fire,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,False
+559,560,Emboar,Fire,Fighting,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,False
+560,561,Oshawott,Water,,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,False
+561,562,Dewott,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+562,563,Samurott,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,False
+563,564,Patrat,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,low_win_ratio,False
+564,565,Watchog,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,False
+565,566,Lillipup,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,low_win_ratio,True
+566,567,Herdier,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,True
+567,568,Stoutland,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+568,569,Purrloin,Dark,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,False
+569,570,Liepard,Dark,,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,5,False,high_win_ratio,False
+570,571,Pansage,Grass,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,False
+571,572,Simisage,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,False
+572,573,Pansear,Fire,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,False
+573,574,Simisear,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,True
+574,575,Panpour,Water,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,high_win_ratio,True
+575,576,Simipour,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,False
+576,577,Munna,Psychic,,medium_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+577,578,Musharna,Psychic,,high_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+578,579,Pidove,Normal,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,medium_win_ratio,True
+579,580,Tranquill,Normal,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,False
+580,581,Unfezant,Normal,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,False
+581,582,Blitzle,Electric,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,False
+582,583,Zebstrika,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,5,False,medium_win_ratio,False
+583,584,Roggenrola,Rock,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,medium_win_ratio,True
+584,585,Boldore,Rock,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,medium_win_ratio,True
+585,586,Gigalith,Rock,,medium_hp,high_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,False
+586,587,Woobat,Psychic,Flying,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,False
+587,588,Swoobat,Psychic,Flying,medium_hp,low_attack,medium_defense,medium_sp_atk,low_sp_def,high_speed,5,False,low_win_ratio,True
+588,589,Drilbur,Ground,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,True
+589,590,Excadrill,Ground,Steel,high_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+590,591,Audino,Normal,,high_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,True
+591,592,Mega Audino,Normal,Fairy,high_hp,low_attack,high_defense,medium_sp_atk,high_sp_def,low_speed,5,False,low_win_ratio,True
+592,593,Timburr,Fighting,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+593,594,Gurdurr,Fighting,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,medium_win_ratio,True
+594,595,Conkeldurr,Fighting,,high_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,True
+595,596,Tympole,Water,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,False
+596,597,Palpitoad,Water,Ground,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,5,False,high_win_ratio,False
+597,598,Seismitoad,Water,Ground,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,False
+598,599,Throh,Fighting,,high_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,True
+599,600,Sawk,Fighting,,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,True
+600,601,Sewaddle,Bug,Grass,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,True
+601,602,Swadloon,Bug,Grass,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+602,603,Leavanny,Bug,Grass,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,False
+603,604,Venipede,Bug,Poison,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,medium_win_ratio,True
+604,605,Whirlipede,Bug,Poison,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,True
+605,606,Scolipede,Bug,Poison,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,5,False,low_win_ratio,True
+606,607,Cottonee,Grass,Fairy,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,True
+607,608,Whimsicott,Grass,Fairy,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,5,False,medium_win_ratio,True
+608,609,Petilil,Grass,,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+609,610,Lilligant,Grass,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,False
+610,611,Basculin,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,False
+611,612,Sandile,Ground,Dark,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,True
+612,613,Krokorok,Ground,Dark,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,True
+613,614,Krookodile,Ground,Dark,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,True
+614,615,Darumaka,Fire,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+615,616,Darmanitan Standard Mode,Fire,,high_hp,high_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,False
+616,617,Darmanitan Zen Mode,Fire,Psychic,high_hp,low_attack,medium_defense,high_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+617,618,Maractus,Grass,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+618,619,Dwebble,Bug,Rock,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,False
+619,620,Crustle,Bug,Rock,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+620,621,Scraggy,Dark,Fighting,low_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,False
+621,622,Scrafty,Dark,Fighting,medium_hp,medium_attack,high_defense,low_sp_atk,high_sp_def,low_speed,5,False,low_win_ratio,False
+622,623,Sigilyph,Psychic,Flying,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,False
+623,624,Yamask,Ghost,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+624,625,Cofagrigus,Ghost,,medium_hp,low_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,False
+625,626,Tirtouga,Water,Rock,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,low_win_ratio,False
+626,627,Carracosta,Water,Rock,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,False
+627,628,Archen,Rock,Flying,medium_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,True
+628,629,Archeops,Rock,Flying,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+629,630,Trubbish,Poison,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,False
+630,631,Garbodor,Poison,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,False
+631,632,Zorua,Dark,,low_hp,medium_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,False
+632,633,Zoroark,Dark,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,True
+633,634,Minccino,Normal,,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,high_win_ratio,True
+634,635,Cinccino,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,high_speed,5,False,high_win_ratio,True
+635,636,Gothita,Psychic,,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+636,637,Gothorita,Psychic,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,True
+637,638,Gothitelle,Psychic,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,True
+638,639,Solosis,Psychic,,low_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,low_speed,5,False,low_win_ratio,True
+639,640,Duosion,Psychic,,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,True
+640,641,Reuniclus,Psychic,,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+641,642,Ducklett,Water,Flying,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,medium_win_ratio,True
+642,643,Swanna,Water,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+643,644,Vanillite,Ice,,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,True
+644,645,Vanillish,Ice,,low_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,True
+645,646,Vanilluxe,Ice,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,False
+646,647,Deerling,Normal,Grass,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,low_win_ratio,False
+647,648,Sawsbuck,Normal,Grass,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,False
+648,649,Emolga,Electric,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,False
+649,650,Karrablast,Bug,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,low_win_ratio,False
+650,651,Escavalier,Bug,Steel,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,False
+651,652,Foongus,Grass,Poison,medium_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,low_win_ratio,False
+652,653,Amoonguss,Grass,Poison,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,False
+653,654,Frillish,Water,Ghost,medium_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,True
+654,655,Jellicent,Water,Ghost,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,True
+655,656,Alomomola,Water,,high_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,True
+656,657,Joltik,Bug,Electric,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,False
+657,658,Galvantula,Bug,Electric,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,False
+658,659,Ferroseed,Grass,Steel,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,False
+659,660,Ferrothorn,Grass,Steel,medium_hp,medium_attack,high_defense,low_sp_atk,high_sp_def,low_speed,5,False,low_win_ratio,False
+660,661,Klink,Steel,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+661,662,Klang,Steel,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,False
+662,663,Klinklang,Steel,,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,False
+663,664,Tynamo,Electric,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,False
+664,665,Eelektrik,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,True
+665,666,Eelektross,Electric,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+666,667,Elgyem,Psychic,,medium_hp,low_attack,medium_defense,medium_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,False
+667,668,Beheeyem,Psychic,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,False
+668,669,Litwick,Ghost,Fire,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,low_win_ratio,True
+669,670,Lampent,Ghost,Fire,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,True
+670,671,Chandelure,Ghost,Fire,medium_hp,low_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,True
+671,672,Axew,Dragon,,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,medium_win_ratio,True
+672,673,Fraxure,Dragon,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,False
+673,674,Haxorus,Dragon,,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,True
+674,675,Cubchoo,Ice,,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+675,676,Beartic,Ice,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,True
+676,677,Cryogonal,Ice,,medium_hp,low_attack,low_defense,medium_sp_atk,high_sp_def,medium_speed,5,False,medium_win_ratio,True
+677,678,Shelmet,Bug,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,False
+678,679,Accelgor,Bug,,medium_hp,medium_attack,low_defense,medium_sp_atk,medium_sp_def,high_speed,5,False,high_win_ratio,True
+679,680,Stunfisk,Ground,Electric,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,5,False,low_win_ratio,True
+680,681,Mienfoo,Fighting,,low_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,5,False,medium_win_ratio,True
+681,682,Mienshao,Fighting,,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+682,683,Druddigon,Dragon,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,medium_win_ratio,True
+683,684,Golett,Ground,Ghost,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+684,685,Golurk,Ground,Ghost,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,True
+685,686,Pawniard,Dark,Steel,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+686,687,Bisharp,Dark,Steel,medium_hp,high_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+687,688,Bouffalant,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,False
+688,689,Rufflet,Normal,Flying,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,False
+689,690,Braviary,Normal,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+690,691,Vullaby,Dark,Flying,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,True
+691,692,Mandibuzz,Dark,Flying,high_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+692,693,Heatmor,Fire,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,True
+693,694,Durant,Bug,Steel,medium_hp,medium_attack,high_defense,low_sp_atk,low_sp_def,medium_speed,5,False,high_win_ratio,True
+694,695,Deino,Dark,Dragon,medium_hp,medium_attack,low_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+695,696,Zweilous,Dark,Dragon,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,5,False,high_win_ratio,True
+696,697,Hydreigon,Dark,Dragon,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+697,698,Larvesta,Bug,Fire,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,5,False,high_win_ratio,True
+698,699,Volcarona,Bug,Fire,medium_hp,low_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,5,False,high_win_ratio,True
+699,700,Cobalion,Steel,Fighting,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,high_win_ratio,True
+700,701,Terrakion,Rock,Fighting,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,high_win_ratio,True
+701,702,Virizion,Grass,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,5,True,high_win_ratio,True
+702,703,Tornadus Incarnate Forme,Flying,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,high_win_ratio,True
+703,704,Tornadus Therian Forme,Flying,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,5,True,low_win_ratio,False
+704,705,Thundurus Incarnate Forme,Electric,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,medium_win_ratio,False
+705,706,Thundurus Therian Forme,Electric,Flying,medium_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,5,True,medium_win_ratio,True
+706,707,Reshiram,Dragon,Fire,medium_hp,medium_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,5,True,low_win_ratio,False
+707,708,Zekrom,Dragon,Electric,medium_hp,high_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,medium_win_ratio,False
+708,709,Landorus Incarnate Forme,Ground,Flying,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,high_win_ratio,True
+709,710,Landorus Therian Forme,Ground,Flying,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,medium_win_ratio,False
+710,711,Kyurem,Dragon,Ice,high_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,high_win_ratio,False
+711,712,Kyurem Black Kyurem,Dragon,Ice,high_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,True,high_win_ratio,True
+712,713,Kyurem White Kyurem,Dragon,Ice,high_hp,medium_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,5,True,medium_win_ratio,False
+713,714,Keldeo Ordinary Forme,Water,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,True
+714,715,Keldeo Resolute Forme,Water,Fighting,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,medium_win_ratio,True
+715,716,Meloetta Aria Forme,Normal,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,5,False,high_win_ratio,True
+716,717,Meloetta Pirouette Forme,Normal,Fighting,medium_hp,high_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,5,False,high_win_ratio,True
+717,718,Genesect,Bug,Steel,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,5,False,low_win_ratio,False
+718,719,Chespin,Grass,,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,low_win_ratio,False
+719,720,Quilladin,Grass,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,6,False,medium_win_ratio,True
+720,721,Chesnaught,Grass,Fighting,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,medium_win_ratio,True
+721,722,Fennekin,Fire,,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,6,False,high_win_ratio,True
+722,723,Braixen,Fire,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,low_win_ratio,False
+723,724,Delphox,Fire,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,medium_win_ratio,False
+724,725,Froakie,Water,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,6,False,medium_win_ratio,False
+725,726,Frogadier,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,medium_win_ratio,False
+726,727,Greninja,Water,Dark,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,6,False,medium_win_ratio,False
+727,728,Bunnelby,Normal,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,6,False,low_win_ratio,False
+728,729,Diggersby,Normal,Ground,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,6,False,medium_win_ratio,True
+729,730,Fletchling,Normal,Flying,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,6,False,high_win_ratio,False
+730,731,Fletchinder,Fire,Flying,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,medium_speed,6,False,medium_win_ratio,False
+731,732,Talonflame,Fire,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,6,False,high_win_ratio,False
+732,733,Scatterbug,Bug,,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,6,False,high_win_ratio,False
+733,734,Spewpa,Bug,,low_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,low_win_ratio,True
+734,735,Vivillon,Bug,Flying,medium_hp,low_attack,low_defense,medium_sp_atk,low_sp_def,medium_speed,6,False,low_win_ratio,True
+735,736,Litleo,Fire,Normal,medium_hp,low_attack,medium_defense,medium_sp_atk,low_sp_def,medium_speed,6,False,medium_win_ratio,True
+736,737,Pyroar,Fire,Normal,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,medium_win_ratio,True
+737,738,Flabébé,Fairy,,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,6,False,low_win_ratio,False
+738,739,Floette,Fairy,,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,low_speed,6,False,low_win_ratio,False
+739,740,Florges,Fairy,,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,6,False,low_win_ratio,False
+740,741,Skiddo,Grass,,medium_hp,medium_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,6,False,medium_win_ratio,False
+741,742,Gogoat,Grass,,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,low_win_ratio,True
+742,743,Pancham,Fighting,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,high_win_ratio,True
+743,744,Pangoro,Fighting,Dark,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,6,False,low_win_ratio,True
+744,745,Furfrou,Normal,,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,6,False,medium_win_ratio,True
+745,746,Espurr,Psychic,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,medium_speed,6,False,low_win_ratio,True
+746,747,Meowstic Male,Psychic,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,low_win_ratio,True
+747,748,Meowstic Female,Psychic,,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,low_win_ratio,False
+748,749,Honedge,Steel,Ghost,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,medium_win_ratio,False
+749,750,Doublade,Steel,Ghost,medium_hp,medium_attack,high_defense,low_sp_atk,low_sp_def,low_speed,6,False,medium_win_ratio,True
+750,751,Aegislash Blade Forme,Steel,Ghost,medium_hp,high_attack,low_defense,high_sp_atk,low_sp_def,low_speed,6,False,high_win_ratio,True
+751,752,Aegislash Shield Forme,Steel,Ghost,medium_hp,low_attack,high_defense,low_sp_atk,high_sp_def,low_speed,6,False,low_win_ratio,True
+752,753,Spritzee,Fairy,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,6,False,medium_win_ratio,True
+753,754,Aromatisse,Fairy,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,6,False,low_win_ratio,True
+754,755,Swirlix,Fairy,,medium_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,6,False,medium_win_ratio,True
+755,756,Slurpuff,Fairy,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,medium_win_ratio,False
+756,757,Inkay,Dark,Psychic,medium_hp,low_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,high_win_ratio,True
+757,758,Malamar,Dark,Psychic,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,high_win_ratio,True
+758,759,Binacle,Rock,Water,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,6,False,low_win_ratio,True
+759,760,Barbaracle,Rock,Water,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,6,False,low_win_ratio,False
+760,761,Skrelp,Poison,Water,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,6,False,medium_win_ratio,False
+761,762,Dragalge,Poison,Dragon,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,low_speed,6,False,medium_win_ratio,False
+762,763,Clauncher,Water,,low_hp,low_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,6,False,medium_win_ratio,True
+763,764,Clawitzer,Water,,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,6,False,low_win_ratio,True
+764,765,Helioptile,Electric,Normal,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,medium_speed,6,False,medium_win_ratio,True
+765,766,Heliolisk,Electric,Normal,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,medium_win_ratio,True
+766,767,Tyrunt,Rock,Dragon,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,medium_win_ratio,True
+767,768,Tyrantrum,Rock,Dragon,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,low_win_ratio,True
+768,769,Amaura,Rock,Ice,medium_hp,low_attack,low_defense,medium_sp_atk,medium_sp_def,low_speed,6,False,high_win_ratio,True
+769,770,Aurorus,Rock,Ice,high_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,low_speed,6,False,high_win_ratio,True
+770,771,Sylveon,Fairy,,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,low_speed,6,False,medium_win_ratio,True
+771,772,Hawlucha,Fighting,Flying,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,6,False,medium_win_ratio,True
+772,773,Dedenne,Electric,Fairy,medium_hp,low_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,low_win_ratio,False
+773,774,Carbink,Rock,Fairy,low_hp,low_attack,high_defense,low_sp_atk,high_sp_def,low_speed,6,False,low_win_ratio,False
+774,775,Goomy,Dragon,,low_hp,low_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,6,False,low_win_ratio,True
+775,776,Sliggoo,Dragon,,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,low_speed,6,False,high_win_ratio,True
+776,777,Goodra,Dragon,,medium_hp,medium_attack,medium_defense,medium_sp_atk,high_sp_def,medium_speed,6,False,high_win_ratio,False
+777,778,Klefki,Steel,Fairy,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,medium_speed,6,False,high_win_ratio,True
+778,779,Phantump,Ghost,Grass,low_hp,medium_attack,low_defense,low_sp_atk,medium_sp_def,low_speed,6,False,high_win_ratio,True
+779,780,Trevenant,Ghost,Grass,medium_hp,medium_attack,medium_defense,low_sp_atk,medium_sp_def,low_speed,6,False,medium_win_ratio,True
+780,781,Pumpkaboo Average Size,Ghost,Grass,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,high_win_ratio,True
+781,782,Pumpkaboo Small Size,Ghost,Grass,low_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,medium_win_ratio,True
+782,783,Pumpkaboo Large Size,Ghost,Grass,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,medium_win_ratio,True
+783,784,Pumpkaboo Super Size,Ghost,Grass,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,medium_win_ratio,True
+784,785,Gourgeist Average Size,Ghost,Grass,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,6,False,,
+785,786,Gourgeist Small Size,Ghost,Grass,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,6,False,,
+786,787,Gourgeist Large Size,Ghost,Grass,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,medium_speed,6,False,,
+787,788,Gourgeist Super Size,Ghost,Grass,medium_hp,medium_attack,high_defense,low_sp_atk,medium_sp_def,low_speed,6,False,,
+788,789,Bergmite,Ice,,medium_hp,medium_attack,medium_defense,low_sp_atk,low_sp_def,low_speed,6,False,,
+789,790,Avalugg,Ice,,medium_hp,medium_attack,high_defense,low_sp_atk,low_sp_def,low_speed,6,False,,
+790,791,Noibat,Flying,Dragon,low_hp,low_attack,low_defense,low_sp_atk,low_sp_def,low_speed,6,False,,
+791,792,Noivern,Flying,Dragon,medium_hp,medium_attack,medium_defense,medium_sp_atk,medium_sp_def,high_speed,6,False,,
+792,793,Xerneas,Fairy,,high_hp,high_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,6,True,,
+793,794,Yveltal,Dark,Flying,high_hp,high_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,6,True,,
+794,795,Zygarde Half Forme,Dragon,Ground,high_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,6,True,,
+795,796,Diancie,Rock,Fairy,low_hp,medium_attack,high_defense,medium_sp_atk,high_sp_def,low_speed,6,True,,
+796,797,Mega Diancie,Rock,Fairy,low_hp,high_attack,medium_defense,high_sp_atk,medium_sp_def,medium_speed,6,True,,
+797,798,Hoopa Confined,Psychic,Ghost,medium_hp,medium_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,6,True,,
+798,799,Hoopa Unbound,Psychic,Dark,medium_hp,high_attack,medium_defense,high_sp_atk,high_sp_def,medium_speed,6,True,,
+799,800,Volcanion,Fire,Water,medium_hp,medium_attack,high_defense,medium_sp_atk,medium_sp_def,medium_speed,6,True,,
